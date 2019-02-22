@@ -13,11 +13,11 @@
 
 ## Bootstrap Portfolio Image View
 
-![alt text](https://github.com/atiftariq786/ "Bootstrap Portfolio_About me")
+![alt text](https://github.com/atiftariq786/Bootstrap-Portfolio/blob/master/images/Bootstrap%20About-me.png?raw=true "Bootstrap Portfolio_About me")
 
-![alt text](https://github.com/atiftariq786/ "Bootstrap Portfolio_Contact")
+![alt text](https://github.com/atiftariq786/Bootstrap-Portfolio/blob/master/images/Bootstrap%20contact.png?raw=true "Bootstrap Portfolio_Contact")
 
-![alt text](https://github.com/atiftariq786/ "Bootstrap Portfolio_Portfolio")
+![alt text](https://github.com/atiftariq786/Bootstrap-Portfolio/blob/master/images/Bootstrap%20portfolio.png?raw=true "Bootstrap Portfolio_Portfolio")
 
 ## Getting Started
 
